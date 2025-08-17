@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Thumbnail Auditor",
+  "description": "An AI-powered application that audits your YouTube thumbnails against competitors, providing detailed feedback and actionable recommendations for improvement using Gemini.",
+  "requestFramePermissions": []
+}
